@@ -5,212 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61eb8c56-18b6-4f69-960a-830579eee8d8" name="Changes" comment="add auth">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/data/ecommerce.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/data/ecommerce.trace.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/Controllers/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/Entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/Handlers/ResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/Repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/Services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/Services/ServicesImp/ProductServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/SpringAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/java/com/example/springApp/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/springApp/src/test/java/com/example/springApp/SpringAppApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/java/com/flutterapp/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Podfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Cart/Model/cart_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Cart/Provider/CartProvider.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Cart/cart_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Common/constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Models/product.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Providers/cart_provider.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Providers/product_provider.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Repositories/product_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Services/api_service.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Screens/auth_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Screens/products_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Screens/sign_up.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Screens/user_home_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Widgets/add_product_drawer.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Widgets/elev_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/Views/Widgets/product_container.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/firebase_options.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/icons/Icon-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/icons/Icon-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/icons/Icon-maskable-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/icons/Icon-maskable-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/flutterapp/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Cart/Model/cart_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Cart/Provider/CartProvider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Cart/cart_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Common/constants.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Models/product.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Providers/cart_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Providers/product_provider.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Repositories/product_repository.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Services/api_service.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Screens/auth_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Screens/products_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Screens/sign_up.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Screens/user_home_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Widgets/add_product_drawer.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Widgets/elev_button.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Views/Widgets/product_container.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/firebase_options.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/data/ecommerce.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/backend/data/ecommerce.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/data/ecommerce.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/backend/data/ecommerce.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/example/springApp/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/springApp/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springApp/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springApp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
@@ -243,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -274,7 +75,7 @@
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="additionalArgs" value="-d chrome --web-hostname=localhost --web-port=8000" />
-      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <option name="filePath" value="lib/main.dart" />
       <method v="2" />
     </configuration>
   </component>

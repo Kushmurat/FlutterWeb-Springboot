@@ -6,7 +6,6 @@ import 'package:provider/provider.dart';
 
 import 'Providers/product_provider.dart';
 import 'Views/Screens/products_screen.dart';
-import 'Views/Screens/sign_up.dart';
 import 'firebase_options.dart';
 
 Future<void> main() async {

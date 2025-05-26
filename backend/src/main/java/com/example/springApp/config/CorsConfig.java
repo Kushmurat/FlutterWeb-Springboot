@@ -13,7 +13,7 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // разрешаем CORS для всех путей
-                        .allowedOrigins("http://localhost:8000") // адрес Flutter Web
+                        .allowedOrigins("http://localhost:58865") // адрес Flutter Web
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
